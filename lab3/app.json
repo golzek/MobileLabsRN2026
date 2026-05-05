@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Clicker Lab3",
+    "slug": "lab3-clicker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#0F172A" } }
+  }
+}
