@@ -7,8 +7,6 @@
 ## Інструкція запуску
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MobileLabsRN2026.git
-cd MobileLabsRN2026/lab4
 npm install
 npx expo start
 ```
