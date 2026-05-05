@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lab2 App",
+    "slug": "lab2-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "android": { "adaptiveIcon": { "backgroundColor": "#0F172A" } },
+    "plugins": ["expo-router"]
+  }
+}
